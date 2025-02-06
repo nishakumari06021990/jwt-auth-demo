@@ -89,7 +89,7 @@ The project uses SLF4J for logging with Logback as the logging framework. Logs a
 ## How to Run the Project
 ### 1. Clone the repository:
 
-git clone https://github.com/your-username/jwt-auth-demo.git
+git clone https://github.com/nishakumari06021990/jwt-auth-demo.git
 
 cd jwt-auth-demo
 
